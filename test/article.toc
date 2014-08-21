@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}There Loops Resolution}{1}
+\contentsline {subsection}{\numberline {1.1}Source Code}{1}
+\contentsline {subsection}{\numberline {1.2}Results}{3}
+\contentsline {subsubsection}{\numberline {1.2.1}No Optimization}{3}
+\contentsline {subsubsection}{\numberline {1.2.2}-O2 Optimization}{3}
+\contentsline {subsection}{\numberline {1.3}Conclusion}{3}
+\contentsline {section}{\numberline {2}Three Loops Resulotion (4097X4097)}{3}
+\contentsline {subsection}{\numberline {2.1}Source Code}{3}
+\contentsline {subsection}{\numberline {2.2}Results}{5}
+\contentsline {subsection}{\numberline {2.3}Conclusion}{5}
+\contentsline {section}{\numberline {3}Three Loops Resulotion With Transpose}{5}
+\contentsline {subsection}{\numberline {3.1}Source Code}{5}
+\contentsline {subsection}{\numberline {3.2}Results}{7}
+\contentsline {subsection}{\numberline {3.3}Conclusion}{8}
+\contentsline {section}{\numberline {4}Three Loops Resulotion With Partition}{8}
+\contentsline {subsection}{\numberline {4.1}Source Code}{8}
+\contentsline {subsection}{\numberline {4.2}Results}{10}
+\contentsline {subsection}{\numberline {4.3}Conclusion}{10}

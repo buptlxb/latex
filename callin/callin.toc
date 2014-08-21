@@ -1,0 +1,11 @@
+\beamer@endinputifotherversion {3.10pt}
+\select@language {english}
+\beamer@sectionintoc {1}{What are ICF?}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Definition}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Classification}{5}{0}{1}
+\beamer@sectionintoc {2}{Methodology}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Where to find the possible ICF targets?}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{How to discover the possible ICF targets?}{14}{0}{2}
+\beamer@subsectionintoc {2}{3}{How to reduce false negative?}{25}{0}{2}
+\beamer@sectionintoc {3}{Evaluation}{29}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{31}{0}{4}

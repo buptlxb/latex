@@ -1,0 +1,17 @@
+\frametitle {Category V -- rodata}\begin {exampleblock}{Example}
+        \textbf{5bda60} 46864000 00000000 31864000 00000000 \\
+        \textbf{5bda70} 1c864000 00000000 07864000 00000000 \\
+        \textbf{5bda80} \alert{f7854000} 00000000 00000000 00000000
+        \begin{verbatim}
+    ...
+  4085f7: mov    0x0(%r13),%rcx
+  4085fb: mov    %rcx,0x44499e(%rip)
+  408602: jmpq   40b30c
+  408607: mov    0x0(%r13),%rdi
+  40860b: callq  40cd80 <Perl_scope>
+  408610: mov    %rax,0x444989(%rip)
+  408617: jmpq   40b30c
+  40861c: mov    0x0(%r13),%rdi
+    ...
+        \end{verbatim}
+    \end{exampleblock}
